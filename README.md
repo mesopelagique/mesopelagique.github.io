@@ -12,4 +12,4 @@
 
 > Some have 4d git branches and one big D
 
-<img src="La_Quatrieme_Dimension.jpg" width="200px" />
+<p align="center"><img src="4D.jpg" width="200px" /></p>
