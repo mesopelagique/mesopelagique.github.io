@@ -1,6 +1,3 @@
-# mesopelagique.github.io
-
-
 <p align="center"><img src="4D.jpg" width="200px" /></p>
 
 <img src="La_Quatrieme_Dimension.jpg" width="200px" /> <img src="The_Twilight_Zone.jpg" width="640px" />
