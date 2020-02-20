@@ -7,4 +7,4 @@
 
 <img src="The_Mesopelagic_Zone.jpg" width="640px" /> <img src="Octocat.png" width="200px" />
 
-<img src="GithubAvatar.png" width="280px" /> <img src="GithubAvatarRotate.png" width="280px" /> <img src="4D.jpg" width="280px" />
+<img src="https://avatars2.githubusercontent.com/u/59135882?s=460&v=4" width="280px" /> <img src="GithubAvatarRotate.png" width="280px" /> <img src="4D.jpg" width="280px" />
