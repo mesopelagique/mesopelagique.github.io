@@ -17,6 +17,6 @@
 </div>
 </p>
 
-> Some have 4 git branches and one big D
+> Some have 4 git branches and D shaped head
 
 <p align="center"><img src="4D.jpg" width="200px" /></p>
