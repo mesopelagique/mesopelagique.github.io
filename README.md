@@ -1,9 +1,10 @@
 # mesopelagique.github.io
 
-![4D](4D.png)
-![La_Quatrieme_Dimension](La_Quatrieme_Dimension.jpg)
-![The_Twilight_Zone](The_Twilight_Zone.jpg)
-![The_Mesopelagic_Zone](The_Mesopelagic_Zone.jpg)
-![GithubAvatar](GithubAvatar.png)
-![Octocat](Octocat.png)
-![GithubAvatarRotate](GithubAvatarRotate.png)
+
+<p align="center"><img src="4D.jpg" width="200px" /></p>
+
+<img src="La_Quatrieme_Dimension.jpg" width="200px" /> <img src="The_Twilight_Zone.jpg" width="640px" />
+
+<img src="The_Mesopelagic_Zone.jpg" width="640px" /> <img src="Octocat.png" width="200px" />
+
+<img src="GithubAvatar.png" width="280px" /> <img src="GithubAvatarRotate.png" width="280px" /> <img src="4D.jpg" width="280px" />
