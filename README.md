@@ -12,9 +12,11 @@
 > There are a number of marine animals that live in the mesopelagic zone. These animals include fish, shrimp, squid, snipe eels, jellyfish, and zooplankton.
 
 <p align="center">
+<div style="background-color: white;">
  <img src="Octocat.png" width="200px" /> <img src="https://avatars2.githubusercontent.com/u/59135882?s=460&v=4" width="280px" /> <img src="GithubAvatarRotate.png" width="280px" />
+</div>
 </p>
 
-> Some have 4d git branches and one big D
+> Some have 4 git branches and one big D
 
 <p align="center"><img src="4D.jpg" width="200px" /></p>
