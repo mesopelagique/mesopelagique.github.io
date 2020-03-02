@@ -27,6 +27,7 @@
 |-|-|-|
 | [Null Coaliescing][NullCoaliescing-url] | [![language][NullCoaliescing-top]][NullCoaliescing-url] | ![language][NullCoaliescing-license-shield] |
 | [Formula Compose][formula_compose-url] | [![language][formula_compose-top]][formula_compose-url] | ![language][formula_compose-license-shield] |
+| [ObjectClassMapper][ObjectClassMapper-url] | [![language][ObjectClassMapper-top]][ObjectClassMapper-url] | ![language][ObjectClassMapper-license-shield] |
 | [Collection Utils][CollectionUtils-url] | [![language][CollectionUtils-top]][CollectionUtils-url] | ![language][CollectionUtils-license-shield] |
 
 [NullCoaliescing-top]: https://img.shields.io/github/languages/top/mesopelagique/NullCoaliescing.svg
@@ -38,3 +39,6 @@
 [CollectionUtils-top]: https://img.shields.io/github/languages/top/mesopelagique/CollectionUtils.svg
 [CollectionUtils-url]: CollectionUtils
 [CollectionUtils-license-shield]: https://img.shields.io/github/license/mesopelagique/CollectionUtils
+[ObjectClassMapper-top]: https://img.shields.io/github/languages/top/mesopelagique/ObjectClassMapper.svg
+[ObjectClassMapper-url]: ObjectClassMapper
+[ObjectClassMapper-license-shield]: https://img.shields.io/github/license/mesopelagique/ObjectClassMapper
