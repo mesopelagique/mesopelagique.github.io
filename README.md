@@ -21,9 +21,7 @@
 
 <p align="center"><img src="4D.jpg" width="200px" /></p>
 
-* [Null Coaliescing](NullCoaliescing)
-* [Formula Compose](formula_compose)
-* [Collection Utils](CollectionUtils)
+---
 
 |Name|Language|License|
 |-|-|-|
