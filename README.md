@@ -27,13 +27,22 @@
 
 ---
 
-|Name|Language|License|
-|-|-|-|
-| [Null Coaliescing][NullCoaliescing-url] | [![language][NullCoaliescing-top]][NullCoaliescing-url] | ![language][NullCoaliescing-license-shield] |
-| [Formula Compose][formula_compose-url] | [![language][formula_compose-top]][formula_compose-url] | ![language][formula_compose-license-shield] |
-| [ObjectClassMapper][ObjectClassMapper-url] | [![language][ObjectClassMapper-top]][ObjectClassMapper-url] | ![language][ObjectClassMapper-license-shield] |
-| [Collection Utils][CollectionUtils-url] | [![language][CollectionUtils-top]][CollectionUtils-url] | ![language][CollectionUtils-license-shield] |
-| [Kaluza][Kaluza-url] | [![language][Kaluza-top]][Kaluza-url] | ![language][Kaluza-license-shield] |
+|Name|Description|Language|License|
+|-|-|-|-|
+| [Null Coaliescing][NullCoaliescing-url] | [Null Coaliescing](https://en.wikipedia.org/wiki/Null_coalescing_operator) | [![language][NullCoaliescing-top]][NullCoaliescing-url] | ![language][NullCoaliescing-license-shield] |
+| [Formula Compose][formula_compose-url] | Compose formula | [![language][formula_compose-top]][formula_compose-url] | ![language][formula_compose-license-shield] |
+| [Collection Utils][CollectionUtils-url] | Some methods for collection | [![language][CollectionUtils-top]][CollectionUtils-url] | ![language][CollectionUtils-license-shield] |
+
+---
+🚧
+
+|Name|Description|Language|License|
+|-|-|-|-|
+| [ObjectClassMapper][ObjectClassMapper-url] | Map JSON/Object to structure | [![language][ObjectClassMapper-top]][ObjectClassMapper-url] | ![language][ObjectClassMapper-license-shield] |
+| [Kaluza][Kaluza-url] | Package manager for 4d | [![language][Kaluza-top]][Kaluza-url] | ![language][Kaluza-license-shield] |
+| [Kaluza-cli][Kaluza-cli-url] | CLI for Kaluza | [![language][Kaluza-cli-top]][Kaluza-cli-url] | ![language][Kaluza-cli-license-shield] |
+
+---
 
 [NullCoaliescing-top]: https://img.shields.io/github/languages/top/mesopelagique/NullCoaliescing.svg
 [NullCoaliescing-url]: NullCoaliescing
@@ -49,4 +58,7 @@
 [ObjectClassMapper-license-shield]: https://img.shields.io/github/license/mesopelagique/ObjectClassMapper
 [Kaluza-top]: https://img.shields.io/github/languages/top/mesopelagique/Kaluza.svg
 [Kaluza-url]: Kaluza
-[Kaluza-license-shield]: https://img.shields.io/github/license/mesopelagique/Kaluza
+[Kaluza-license-shield]: https://img.shields.io/github/license/mesopelagique/kaluza
+[Kaluza-cli-top]: https://img.shields.io/github/languages/top/mesopelagique/kaluza-cli.svg
+[Kaluza-cli-url]: kaluza-cli
+[Kaluza-cli-license-shield]: https://img.shields.io/github/license/mesopelagique/kaluza-cli
