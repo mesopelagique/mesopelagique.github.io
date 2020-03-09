@@ -29,6 +29,7 @@
 | [Formula Compose][formula_compose-url] | [![language][formula_compose-top]][formula_compose-url] | ![language][formula_compose-license-shield] |
 | [ObjectClassMapper][ObjectClassMapper-url] | [![language][ObjectClassMapper-top]][ObjectClassMapper-url] | ![language][ObjectClassMapper-license-shield] |
 | [Collection Utils][CollectionUtils-url] | [![language][CollectionUtils-top]][CollectionUtils-url] | ![language][CollectionUtils-license-shield] |
+| [Kaluza][Kaluza-url] | [![language][Kaluza-top]][Kaluza-url] | ![language][Kaluza-license-shield] |
 
 [NullCoaliescing-top]: https://img.shields.io/github/languages/top/mesopelagique/NullCoaliescing.svg
 [NullCoaliescing-url]: NullCoaliescing
@@ -42,3 +43,6 @@
 [ObjectClassMapper-top]: https://img.shields.io/github/languages/top/mesopelagique/ObjectClassMapper.svg
 [ObjectClassMapper-url]: ObjectClassMapper
 [ObjectClassMapper-license-shield]: https://img.shields.io/github/license/mesopelagique/ObjectClassMapper
+[Kaluza-top]: https://img.shields.io/github/languages/top/mesopelagique/Kaluza.svg
+[Kaluza-url]: Kaluza
+[Kaluza-license-shield]: https://img.shields.io/github/license/mesopelagique/Kaluza
