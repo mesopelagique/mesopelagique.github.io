@@ -8,12 +8,12 @@
 <img src="La_Quatrieme_Dimension.jpg" width="200px" /> <img src="The_Twilight_Zone.jpg" width="640px" />
 </p>
 
-> The mesopelagic zone extends from 200 to 1,000 meters (660-3,300 feet) below the surface of the ocean. This area is known as the twilight zone
+> The mesopelagic zone extends from 200 to 1,000 meters (660-3,300 feet) below the surface of the ocean. This area is known as the twilight zone.
 <p align="center">
 <img src="The_Mesopelagic_Zone.jpg"/>
 </p>
 
-> There are a number of marine animals that live in the mesopelagic zone. These animals include fish, shrimp, squid, snipe eels, jellyfish, and zooplankton.
+>  The light that reaches the mesopelagic zone is dim and does not allow for photosynthesis but there are a number of marine animals that live in. These animals include fish, shrimp, squid, snipe eels, jellyfish, and zooplankton.
 
 <p align="center">
 <div align="center">
@@ -21,7 +21,7 @@
 </div>
 </p>
 
-> Some have 4 git branches and D shaped head
+> Some could have 4 git branches and D shaped head.
 
 <p align="center"><img src="4D.jpg" width="200px" /></p>
 
