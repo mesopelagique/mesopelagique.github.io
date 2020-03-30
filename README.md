@@ -33,7 +33,9 @@
 |-|-|-|-|
 | [Null Coaliescing][NullCoaliescing-url] | [Null Coaliescing](https://en.wikipedia.org/wiki/Null_coalescing_operator) | [![language][NullCoaliescing-top]][NullCoaliescing-url] | ![language][NullCoaliescing-license-shield] |
 | [Formula Compose][formula_compose-url] | Compose formula | [![language][formula_compose-top]][formula_compose-url] | ![language][formula_compose-license-shield] |
+| [Iterable][Iterable-url] | Iterate over many things| [![language][Iterable-top]][Iterable-url] | ![language][Iterable-license-shield] |
 | [Collection Utils][CollectionUtils-url] | Some methods for collection | [![language][CollectionUtils-top]][CollectionUtils-url] | ![language][CollectionUtils-license-shield] |
+| [Discord.4d][Discord.4d-url] | Send message to Discord | [![language][Discord.4d-top]][Discord.4d-url] | ![language][Discord.4d-license-shield] |
 
 ---
 ## 🚧
@@ -65,3 +67,9 @@
 [Kaluza-cli-top]: https://img.shields.io/github/languages/top/mesopelagique/kaluza-cli.svg
 [Kaluza-cli-url]: kaluza-cli
 [Kaluza-cli-license-shield]: https://img.shields.io/github/license/mesopelagique/kaluza-cli
+[Iterable-top]: https://img.shields.io/github/languages/top/mesopelagique/Iterable.svg
+[Iterable-url]: Iterable
+[Iterable-license-shield]: https://img.shields.io/github/license/mesopelagique/Iterable
+[Discord.4d-top]: https://img.shields.io/github/languages/top/mesopelagique/Discord.4d.svg
+[Discord.4d-url]: Discord.4d
+[Discord.4d-license-shield]: https://img.shields.io/github/license/mesopelagique/Discord.4d
