@@ -74,6 +74,6 @@
 [Discord.4d-top]: https://img.shields.io/github/languages/top/mesopelagique/Discord.4d.svg
 [Discord.4d-url]: Discord.4d
 [Discord.4d-license-shield]: https://img.shields.io/github/license/mesopelagique/Discord.4d
-[expect.4d-top]: https://img.shields.io/github/languages/top/mesopelagique/expect.svg
-[expect.4d-url]: expect
-[expect.4d-license-shield]: https://img.shields.io/github/license/mesopelagique/expect.4d
+[expect-top]: https://img.shields.io/github/languages/top/mesopelagique/expect.svg
+[expect-url]: expect
+[expect-license-shield]: https://img.shields.io/github/license/mesopelagique/expect.4d
