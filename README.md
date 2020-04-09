@@ -37,7 +37,8 @@
 | [Collection Utils][CollectionUtils-url] | Some methods for collection | [![language][CollectionUtils-top]][CollectionUtils-url] | ![language][CollectionUtils-license-shield] |
 | [Discord.4d][Discord.4d-url] | Send message to Discord | [![language][Discord.4d-top]][Discord.4d-url] | ![language][Discord.4d-license-shield] |
 | [expect][expect-url] | Matchers for BDD test | [![language][expect-top]][expect-url] | ![language][expect-license-shield] |
-
+| [ClassStoreDiagram][ClassStoreDiagram-url] | Convert `cs` to diagram | [![language][ClassStoreDiagram-top]][ClassStoreDiagram-url] | ![language][ClassStoreDiagram-license-shield] |
+| [Mark4Down][Mark4Down-url] | Web markdown editor on current base| [![language][Mark4Down-top]][Mark4Down-url] | ![language][Mark4Down-license-shield] |
 ---
 ## 🚧
 ---
@@ -76,4 +77,10 @@
 [Discord.4d-license-shield]: https://img.shields.io/github/license/mesopelagique/Discord.4d
 [expect-top]: https://img.shields.io/github/languages/top/mesopelagique/expect.svg
 [expect-url]: expect
-[expect-license-shield]: https://img.shields.io/github/license/mesopelagique/expect.4d
+[expect-license-shield]: https://img.shields.io/github/license/mesopelagique/expect
+[ClassStoreDiagram-top]: https://img.shields.io/github/languages/top/mesopelagique/ClassStoreDiagram.svg
+[ClassStoreDiagram-url]: ClassStoreDiagram
+[ClassStoreDiagram-license-shield]: https://img.shields.io/github/license/mesopelagique/ClassStoreDiagram
+[Mark4Down-top]: https://img.shields.io/github/languages/top/mesopelagique/Mark4Down.svg
+[Mark4Down-url]: Mark4Down
+[Mark4Down-license-shield]: https://img.shields.io/github/license/mesopelagique/Mark4Down
