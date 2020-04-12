@@ -40,7 +40,7 @@
 | [ClassStoreDiagram][ClassStoreDiagram-url] | Convert `cs` to diagram | [![language][ClassStoreDiagram-top]][ClassStoreDiagram-url] | ![language][ClassStoreDiagram-license-shield] |
 | [Mark4Down][Mark4Down-url] | Web markdown editor on current base| [![language][Mark4Down-top]][Mark4Down-url] | ![language][Mark4Down-license-shield] |
 | [JSONToCode][JSONToCode-url] | JSON to 4D code| [![language][JSONToCode-top]][JSONToCode-url] | ![language][JSONToCode-license-shield] |
-| [Classy][JSONToCode-url] | Use Class instead of 4D Method | [![language][Classy-top]][Classy-url] | ![language][Classy-license-shield] |
+| [Classy][Classy-url] | Use Class instead of 4D Method | [![language][Classy-top]][Classy-url] | ![language][Classy-license-shield] |
 
 ---
 ## 🚧
