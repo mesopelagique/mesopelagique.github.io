@@ -52,8 +52,15 @@
 | [Kaluza][Kaluza-url] | Package manager for 4d | [![language][Kaluza-top]][Kaluza-url] | ![language][Kaluza-license-shield] |
 | [Kaluza-cli][Kaluza-cli-url] | CLI for Kaluza | [![language][Kaluza-cli-top]][Kaluza-cli-url] | ![language][Kaluza-cli-license-shield] |
 
+
 ---
 
+[![discord][discord-shield]][discord-url] 
+
+---
+
+[discord-shield]: https://img.shields.io/badge/chat-discord-7289DA?logo=discord&style=flat
+[discord-url]: https://discord.gg/dVTqZHr
 [NullCoaliescing-top]: https://img.shields.io/github/languages/top/mesopelagique/NullCoaliescing.svg
 [NullCoaliescing-url]: NullCoaliescing
 [NullCoaliescing-license-shield]: https://img.shields.io/github/license/mesopelagique/NullCoaliescing
