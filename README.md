@@ -41,6 +41,7 @@
 | [Mark4Down][Mark4Down-url] | Web markdown editor on current base| [![language][Mark4Down-top]][Mark4Down-url] | ![language][Mark4Down-license-shield] |
 | [JSONToCode][JSONToCode-url] | JSON to 4D code| [![language][JSONToCode-top]][JSONToCode-url] | ![language][JSONToCode-license-shield] |
 | [Classy][Classy-url] | Use Class instead of 4D Method | [![language][Classy-top]][Classy-url] | ![language][Classy-license-shield] |
+| [Mesopotamia][Mesopotamia-url] | Convert Javascript to 4D Code | [![language][Mesopotamia-top]][Mesopotamia-url] | ![language][Mesopotamia-license-shield] |
 
 ---
 ## 🚧
@@ -55,7 +56,26 @@
 
 ---
 
+## Any question about this unknown dimension?
+
 [![discord][discord-shield]][discord-url] 
+
+## To help the dimension growth
+
+If you like my content, please consider buying me a coffee. 
+
+<a href="https://paypal.me/ericphimage">
+<img src="https://buymecoffee.intm.org/img/button-paypal-white.png" alt="Buy me a coffee" height="35">
+</a>
+
+or if you run a business and you're using one of my other projects in a revenue-generating product, it makes business sense to sponsor this development
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-%F0%9F%A7%A1-white.svg?style=flat)](https://github.com/sponsors/phimage)
+<a href="https://www.patreon.com/phimage">
+<img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Become a Patron!" height="20">
+</a>
+
+Thank you for your support! 
 
 ---
 
@@ -100,3 +120,6 @@
 [Classy-top]: https://img.shields.io/github/languages/top/mesopelagique/Classy.svg
 [Classy-url]: Classy
 [Classy-license-shield]: https://img.shields.io/github/license/mesopelagique/Classy
+[Mesopotamia-top]: https://img.shields.io/github/languages/top/mesopelagique/Mesopotamia.svg
+[Mesopotamia-url]: Mesopotamia
+[Mesopotamia-license-shield]: https://img.shields.io/github/license/mesopelagique/Mesopotamia
