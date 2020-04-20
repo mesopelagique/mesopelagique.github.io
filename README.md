@@ -26,8 +26,10 @@
 <p align="center"><img src="4D.jpg" width="200px" /></p>
 
 ---
-## 📦
+## 📦 Components
 ---
+
+### Language
 
 |Name|Description|Language|License|
 |-|-|-|-|
@@ -35,16 +37,35 @@
 | [Formula Compose][formula_compose-url] | Compose formula | [![language][formula_compose-top]][formula_compose-url] | ![language][formula_compose-license-shield] |
 | [Iterable][Iterable-url] | Iterate over many things| [![language][Iterable-top]][Iterable-url] | ![language][Iterable-license-shield] |
 | [Collection Utils][CollectionUtils-url] | Some methods for collection | [![language][CollectionUtils-top]][CollectionUtils-url] | ![language][CollectionUtils-license-shield] |
-| [Discord.4d][Discord.4d-url] | Send message to Discord | [![language][Discord.4d-top]][Discord.4d-url] | ![language][Discord.4d-license-shield] |
-| [expect][expect-url] | Matchers for BDD test | [![language][expect-top]][expect-url] | ![language][expect-license-shield] |
+| [Classy][Classy-url] | Use Class instead of 4D Method | [![language][Classy-top]][Classy-url] | ![language][Classy-license-shield] |
+
+### IDE
+
+|Name|Description|Language|License|
+|-|-|-|-|
 | [ClassStoreDiagram][ClassStoreDiagram-url] | Convert `cs` to diagram | [![language][ClassStoreDiagram-top]][ClassStoreDiagram-url] | ![language][ClassStoreDiagram-license-shield] |
+
+### API
+
+|Name|Description|Language|License|
+|-|-|-|-|
+| [Discord.4d][Discord.4d-url] | Send message to Discord | [![language][Discord.4d-top]][Discord.4d-url] | ![language][Discord.4d-license-shield] |
+
+### Test/QA
+|Name|Description|Language|License|
+|-|-|-|-|
+| [expect][expect-url] | Matchers for BDD test | [![language][expect-top]][expect-url] | ![language][expect-license-shield] |
+
+### Web component
+
+|Name|Description|Language|License|
+|-|-|-|-|
 | [Mark4Down][Mark4Down-url] | Web markdown editor on current base| [![language][Mark4Down-top]][Mark4Down-url] | ![language][Mark4Down-license-shield] |
 | [JSONToCode][JSONToCode-url] | JSON to 4D code| [![language][JSONToCode-top]][JSONToCode-url] | ![language][JSONToCode-license-shield] |
-| [Classy][Classy-url] | Use Class instead of 4D Method | [![language][Classy-top]][Classy-url] | ![language][Classy-license-shield] |
 | [Mesopotamia][Mesopotamia-url] | Convert Javascript to 4D Code | [![language][Mesopotamia-top]][Mesopotamia-url] | ![language][Mesopotamia-license-shield] |
 
 ---
-## 🚧
+## 🚧 Work in progress
 ---
 
 |Name|Description|Language|License|
