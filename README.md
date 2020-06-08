@@ -57,6 +57,12 @@
 |-|-|-|-|
 | [expect][expect-url] | Matchers for BDD test | [![language][expect-top]][expect-url] | ![language][expect-license-shield] |
 
+### Web
+
+|Name|Description|Language|License|
+|-|-|-|-|
+| [Tricho][Tricho-url] | Web rooter, utility methods | [![language][Tricho-top]][Tricho-url] | ![language][Tricho-license-shield] |
+
 ### Web component
 
 |Name|Description|Language|License|
@@ -145,3 +151,6 @@ Thank you for your support!
 [Mesopotamia-top]: https://img.shields.io/github/languages/top/mesopelagique/Mesopotamia.svg
 [Mesopotamia-url]: Mesopotamia
 [Mesopotamia-license-shield]: https://img.shields.io/github/license/mesopelagique/Mesopotamia
+[Tricho-top]: https://img.shields.io/github/languages/top/mesopelagique/Tricho.svg
+[Tricho-url]: Tricho
+[Tricho-license-shield]: https://img.shields.io/github/license/mesopelagique/Tricho
