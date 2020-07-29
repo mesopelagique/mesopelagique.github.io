@@ -39,6 +39,12 @@
 | [Collection Utils][CollectionUtils-url] | Some methods for collection | [![language][CollectionUtils-top]][CollectionUtils-url] | ![language][CollectionUtils-license-shield] |
 | [Classy][Classy-url] | Use Class instead of 4D Method | [![language][Classy-top]][Classy-url] | ![language][Classy-license-shield] |
 
+### Data
+
+|Name|Description|Language|License|
+|-|-|-|-|
+| [Shoal][Shoal-url] | Group data by field to analysis or render graphic | [![language][Shoal-top]][Shoal-url] | ![language][Shoal-license-shield] |
+
 ### IDE
 
 |Name|Description|Language|License|
@@ -154,3 +160,6 @@ Thank you for your support!
 [Tricho-top]: https://img.shields.io/github/languages/top/mesopelagique/Tricho.svg
 [Tricho-url]: Tricho
 [Tricho-license-shield]: https://img.shields.io/github/license/mesopelagique/Tricho
+[Shoal-top]: https://img.shields.io/github/languages/top/mesopelagique/Shoal.svg
+[Shoal-url]: Shoal
+[Shoal-license-shield]: https://img.shields.io/github/license/mesopelagique/Shoal
