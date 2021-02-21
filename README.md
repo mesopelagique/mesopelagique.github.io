@@ -148,7 +148,7 @@ Thank you for your support!
 [Discord.4d-license-shield]: https://img.shields.io/github/license/mesopelagique/Discord.4d
 [Twilio-top]: https://img.shields.io/github/languages/top/mesopelagique/Twilio.svg
 [Twilio-url]: Twilio
-[Twilio-license-shield]: https://img.shields.io/github/license/mesopelagique/Twilio.4d
+[Twilio-license-shield]: https://img.shields.io/github/license/mesopelagique/Twilio
 [expect-top]: https://img.shields.io/github/languages/top/mesopelagique/expect.svg
 [expect-url]: expect
 [expect-license-shield]: https://img.shields.io/github/license/mesopelagique/expect
