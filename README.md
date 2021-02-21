@@ -57,6 +57,12 @@
 |-|-|-|-|
 | [Discord.4d][Discord.4d-url] | Send message to Discord | [![language][Discord.4d-top]][Discord.4d-url] | ![language][Discord.4d-license-shield] |
 
+### Security
+
+|Name|Description|Language|License|
+|-|-|-|-|
+| [OTP][OTP-url] | [One time password](https://en.wikipedia.org/wiki/One-time_password) | [![language][OTP-top]][OTP-url] | ![language][OTP-license-shield] |
+
 ### Test/QA
 
 |Name|Description|Language|License|
@@ -163,3 +169,6 @@ Thank you for your support!
 [Shoal-top]: https://img.shields.io/github/languages/top/mesopelagique/Shoal.svg
 [Shoal-url]: Shoal
 [Shoal-license-shield]: https://img.shields.io/github/license/mesopelagique/Shoal
+[OTP-top]: https://img.shields.io/github/languages/top/mesopelagique/OTP.svg
+[OTP-url]: OTP
+[OTP-license-shield]: https://img.shields.io/github/license/mesopelagique/OTP
