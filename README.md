@@ -90,6 +90,7 @@
 |-|-|-|-|
 | [SelectPictureFormMacro][SelectPictureFormMacro-url] | Select picture from current from, `/RESOURCES` or disk | [![language][SelectPictureFormMacro-top]][SelectPictureFormMacro-url] | ![language][SelectPictureFormMacro-license-shield] |
 | [ExtractToSubformFormMacro][ExtractToSubformFormMacro-url] | Copy objects from subform or create new subform from objects | [![language][ExtractToSubformFormMacro-top]][ExtractToSubformFormMacro-url] | ![language][ExtractToSubformFormMacro-license-shield] |
+| [SelectObjectFormMacro][SelectObjectFormMacro-url] | Menu to select form objects | [![language][SelectObjectFormMacro-top]][SelectObjectFormMacro-url] | ![language][SelectObjectFormMacro-license-shield] |
 | [FormObject][FormObject-url] | Select existing css class, generate css or 4d code| [![language][FormObject-top]][FormObject-url] | ![language][FormObject-license-shield] |
 | [TransmuteFormMacro][TransmuteFormMacro-url] | Transmute an object to another type| [![language][TransmuteFormMacro-top]][TransmuteFormMacro-url] | ![language][TransmuteFormMacro-license-shield] |
 | [StackView][StackView-url] | layout inspired from iOS stackView| [![language][StackView-top]][StackView-url] | ![language][StackView-license-shield] |
@@ -201,3 +202,6 @@ Thank you for your support!
 [StackView-top]: https://img.shields.io/github/languages/top/mesopelagique/StackView.svg
 [StackView-url]: StackView
 [StackView-license-shield]: https://img.shields.io/github/license/mesopelagique/StackView
+[SelectObjectFormMacro-top]: https://img.shields.io/github/languages/top/mesopelagique/SelectObjectFormMacro.svg
+[SelectObjectFormMacro-url]: SelectObjectFormMacro
+[SelectObjectFormMacro-license-shield]: https://img.shields.io/github/license/mesopelagique/SelectObjectFormMacro
