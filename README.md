@@ -84,6 +84,16 @@
 | [JSONToCode][JSONToCode-url] | JSON to 4D code| [![language][JSONToCode-top]][JSONToCode-url] | ![language][JSONToCode-license-shield] |
 | [Mesopotamia][Mesopotamia-url] | Convert Javascript to 4D Code | [![language][Mesopotamia-top]][Mesopotamia-url] | ![language][Mesopotamia-license-shield] |
 
+### Form macros
+
+|Name|Description|Language|License|
+|-|-|-|-|
+| [SelectPictureFormMacro][SelectPictureFormMacro-url] | Select picture from current from, `/RESOURCES` or disk | [![language][SelectPictureFormMacro-top]][SelectPictureFormMacro-url] | ![language][SelectPictureFormMacro-license-shield] |
+| [ExtractToSubformFormMacro][ExtractToSubformFormMacro-url] | Copy objects from subform or create new subform from objects | [![language][ExtractToSubformFormMacro-top]][ExtractToSubformFormMacro-url] | ![language][ExtractToSubformFormMacro-license-shield] |
+| [FormObject][FormObject-url] | Select existing css class, generate css or 4d code| [![language][FormObject-top]][FormObject-url] | ![language][FormObject-license-shield] |
+| [TransmuteFormMacro][TransmuteFormMacro-url] | Transmute an object to another type| [![language][TransmuteFormMacro-top]][TransmuteFormMacro-url] | ![language][TransmuteFormMacro-license-shield] |
+| [StackView][StackView-url] | layout inspired from iOS stackView| [![language][StackView-top]][StackView-url] | ![language][StackView-license-shield] |
+
 ---
 ## 🚧 Work in progress
 ---
@@ -176,3 +186,18 @@ Thank you for your support!
 [OTP-top]: https://img.shields.io/github/languages/top/mesopelagique/OTP.svg
 [OTP-url]: OTP
 [OTP-license-shield]: https://img.shields.io/github/license/mesopelagique/OTP
+[SelectPictureFormMacro-top]: https://img.shields.io/github/languages/top/mesopelagique/SelectPictureFormMacro.svg
+[SelectPictureFormMacro-url]: SelectPictureFormMacro
+[SelectPictureFormMacro-license-shield]: https://img.shields.io/github/license/mesopelagique/SelectPictureFormMacro
+[ExtractToSubformFormMacro-top]: https://img.shields.io/github/languages/top/mesopelagique/ExtractToSubformFormMacro.svg
+[ExtractToSubformFormMacro-url]: ExtractToSubformFormMacro
+[ExtractToSubformFormMacro-license-shield]: https://img.shields.io/github/license/mesopelagique/ExtractToSubformFormMacro
+[FormObject-top]: https://img.shields.io/github/languages/top/mesopelagique/FormObject.svg
+[FormObject-url]: FormObject
+[FormObject-license-shield]: https://img.shields.io/github/license/mesopelagique/FormObject
+[TransmuteFormMacro-top]: https://img.shields.io/github/languages/top/mesopelagique/TransmuteFormMacro.svg
+[TransmuteFormMacro-url]: TransmuteFormMacro
+[TransmuteFormMacro-license-shield]: https://img.shields.io/github/license/mesopelagique/TransmuteFormMacro
+[StackView-top]: https://img.shields.io/github/languages/top/mesopelagique/StackView.svg
+[StackView-url]: StackView
+[StackView-license-shield]: https://img.shields.io/github/license/mesopelagique/StackView
