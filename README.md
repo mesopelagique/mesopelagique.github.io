@@ -94,6 +94,7 @@
 | [FormObject][FormObject-url] | Select existing css class, generate css or 4d code| [![language][FormObject-top]][FormObject-url] | ![language][FormObject-license-shield] |
 | [TransmuteFormMacro][TransmuteFormMacro-url] | Transmute an object to another type| [![language][TransmuteFormMacro-top]][TransmuteFormMacro-url] | ![language][TransmuteFormMacro-license-shield] |
 | [StackView][StackView-url] | layout inspired from iOS stackView| [![language][StackView-top]][StackView-url] | ![language][StackView-license-shield] |
+| [Example-FormMacro-CopyPasteStyle][Example-FormMacro-CopyPasteStyle-url] | Copy and Paste Style from one object to another | [![language][Example-FormMacro-CopyPasteStyle-top]][Example-FormMacro-CopyPasteStyle-url] | ![language][Example-FormMacro-CopyPasteStyle-license-shield] |
 
 ---
 ## 🚧 Work in progress
@@ -205,3 +206,6 @@ Thank you for your support!
 [SelectObjectFormMacro-top]: https://img.shields.io/github/languages/top/mesopelagique/SelectObjectFormMacro.svg
 [SelectObjectFormMacro-url]: SelectObjectFormMacro
 [SelectObjectFormMacro-license-shield]: https://img.shields.io/github/license/mesopelagique/SelectObjectFormMacro
+[Example-FormMacro-CopyPasteStyle-top]: https://img.shields.io/github/languages/top/mesopelagique/Example-FormMacro-CopyPasteStyle.svg
+[Example-FormMacro-CopyPasteStyle-url]: Example-FormMacro-CopyPasteStyle
+[Example-FormMacro-CopyPasteStyle-license-shield]: https://img.shields.io/github/license/mesopelagique/Example-FormMacro-CopyPasteStyle
