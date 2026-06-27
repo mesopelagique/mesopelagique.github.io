@@ -31,7 +31,7 @@
 
 📖 [**Blog**](/blog/) — announcements of new components · ✍️ [**AI / Swift / 4D notes**](https://phimage.github.io/)
 
-> 🧩 The **Release** badge is the dependency-manager signal: a version number means the component is installable with the [4D dependency manager](https://developer.4d.com/docs/Project/components); **no releases** means source-only / work in progress.
+> 🧩 next to a **Release** means that release ships a packaged `.zip` asset, so the component is installable with the [4D dependency manager](https://developer.4d.com/docs/Project/components). A version **without** 🧩 has a release but no installable archive yet; **no releases** means source-only / work in progress.
 
 ### Language
 
@@ -42,9 +42,9 @@
 | [Iterable][Iterable-url] | Iterate over objects, collections and custom types | [![language][Iterable-top]][Iterable-url] | [![release][Iterable-release]][Iterable-url] | ![license][Iterable-license-shield] |
 | [Collection Utils][CollectionUtils-url] | Extra methods for collections | [![language][CollectionUtils-top]][CollectionUtils-url] | [![release][CollectionUtils-release]][CollectionUtils-url] | ![license][CollectionUtils-license-shield] |
 | [Classy][Classy-url] | Use a Class instead of a 4D method | [![language][Classy-top]][Classy-url] | [![release][Classy-release]][Classy-url] | ![license][Classy-license-shield] |
-| [SemVer][SemVer-url] | [Semantic Versioning](https://semver.org/) for 4D | [![language][SemVer-top]][SemVer-url] | [![release][SemVer-release]][SemVer-url] | ![license][SemVer-license-shield] |
-| [State][State-url] | Finite state machines for 4D | [![language][State-top]][State-url] | [![release][State-release]][State-url] | ![license][State-license-shield] |
-| [Expression Language][ExpressionLanguage-url] | An expression language for 4D | [![language][ExpressionLanguage-top]][ExpressionLanguage-url] | [![release][ExpressionLanguage-release]][ExpressionLanguage-url] | ![license][ExpressionLanguage-license-shield] |
+| [SemVer][SemVer-url] | [Semantic Versioning](https://semver.org/) for 4D | [![language][SemVer-top]][SemVer-url] | [![release][SemVer-release]][SemVer-url] 🧩 | ![license][SemVer-license-shield] |
+| [State][State-url] | Finite state machines for 4D | [![language][State-top]][State-url] | [![release][State-release]][State-url] 🧩 | ![license][State-license-shield] |
+| [Expression Language][ExpressionLanguage-url] | An expression language for 4D | [![language][ExpressionLanguage-top]][ExpressionLanguage-url] | [![release][ExpressionLanguage-release]][ExpressionLanguage-url] 🧩 | ![license][ExpressionLanguage-license-shield] |
 | [Maybe Monad][MaybeMonad-url] | Maybe monad instead of `nil`-checks | [![language][MaybeMonad-top]][MaybeMonad-url] | [![release][MaybeMonad-release]][MaybeMonad-url] | ![license][MaybeMonad-license-shield] |
 | [Argument Parser][ArgumentParser-url] | Parse command-line style arguments | [![language][ArgumentParser-top]][ArgumentParser-url] | [![release][ArgumentParser-release]][ArgumentParser-url] | ![license][ArgumentParser-license-shield] |
 | [Get/Set Wrappers][GetSetWrappers-url] | Getters and setters helpers | [![language][GetSetWrappers-top]][GetSetWrappers-url] | [![release][GetSetWrappers-release]][GetSetWrappers-url] | ![license][GetSetWrappers-license-shield] |
@@ -53,9 +53,9 @@
 
 |Name|Description|Language|Release|License|
 |-|-|-|-|-|
-| [AIKit Agent Tools][AIKitAgentTools-url] | Ready-to-use AI tools for [4D AIKit](https://github.com/4d/4D-AIKit) (tool / function calling) | [![language][AIKitAgentTools-top]][AIKitAgentTools-url] | [![release][AIKitAgentTools-release]][AIKitAgentTools-url] | ![license][AIKitAgentTools-license-shield] |
+| [AIKit Agent Tools][AIKitAgentTools-url] | Ready-to-use AI tools for [4D AIKit](https://github.com/4d/4D-AIKit) (tool / function calling) | [![language][AIKitAgentTools-top]][AIKitAgentTools-url] | [![release][AIKitAgentTools-release]][AIKitAgentTools-url] 🧩 | ![license][AIKitAgentTools-license-shield] |
 | [MCP][MCP-url] | [Model Context Protocol](https://modelcontextprotocol.io/) client for 4D | [![language][MCP-top]][MCP-url] | [![release][MCP-release]][MCP-url] | ![license][MCP-license-shield] |
-| [PromptKit][PromptKit-url] | Run reusable prompts and chain AI workflows | [![language][PromptKit-top]][PromptKit-url] | [![release][PromptKit-release]][PromptKit-url] | ![license][PromptKit-license-shield] |
+| [PromptKit][PromptKit-url] | Run reusable prompts and chain AI workflows | [![language][PromptKit-top]][PromptKit-url] | [![release][PromptKit-release]][PromptKit-url] 🧩 | ![license][PromptKit-license-shield] |
 | [CopilotSDK][CopilotSDK-url] | 4D port of the GitHub Copilot SDK | [![language][CopilotSDK-top]][CopilotSDK-url] | [![release][CopilotSDK-release]][CopilotSDK-url] | ![license][CopilotSDK-license-shield] |
 | [CopilotSDK → OpenAI][CopilotSDKToOpenAI-url] | OpenAI-compatible web server for CopilotSDK | [![language][CopilotSDKToOpenAI-top]][CopilotSDKToOpenAI-url] | [![release][CopilotSDKToOpenAI-release]][CopilotSDKToOpenAI-url] | ![license][CopilotSDKToOpenAI-license-shield] |
 | [TextChunker4D][TextChunker4D-url] | Split text into stable chunks for embeddings / RAG | [![language][TextChunker4D-top]][TextChunker4D-url] | [![release][TextChunker4D-release]][TextChunker4D-url] | ![license][TextChunker4D-license-shield] |
@@ -68,20 +68,21 @@
 |Name|Description|Language|Release|License|
 |-|-|-|-|-|
 | [Shoal][Shoal-url] | Group data by field to analyse or render graphics | [![language][Shoal-top]][Shoal-url] | [![release][Shoal-release]][Shoal-url] | ![license][Shoal-license-shield] |
-| [BSON][BSON-url] | [Binary JSON](https://bsonspec.org/) (BSON) for 4D | [![language][BSON-top]][BSON-url] | [![release][BSON-release]][BSON-url] | ![license][BSON-license-shield] |
-| [PeD4ntic][PeD4ntic-url] | JSON Schema utilities | [![language][PeD4ntic-top]][PeD4ntic-url] | [![release][PeD4ntic-release]][PeD4ntic-url] | ![license][PeD4ntic-license-shield] |
+| [Object Class Mapper][ObjectClassMapper-url] | Map JSON / Object to a class structure | [![language][ObjectClassMapper-top]][ObjectClassMapper-url] | [![release][ObjectClassMapper-release]][ObjectClassMapper-url] | ![license][ObjectClassMapper-license-shield] |
+| [BSON][BSON-url] | [Binary JSON](https://bsonspec.org/) (BSON) for 4D | [![language][BSON-top]][BSON-url] | [![release][BSON-release]][BSON-url] 🧩 | ![license][BSON-license-shield] |
+| [PeD4ntic][PeD4ntic-url] | JSON Schema utilities | [![language][PeD4ntic-top]][PeD4ntic-url] | [![release][PeD4ntic-release]][PeD4ntic-url] 🧩 | ![license][PeD4ntic-license-shield] |
 | [JSON Rules Engine][JSONRulesEngine-url] | A JSON rules engine | [![language][JSONRulesEngine-top]][JSONRulesEngine-url] | [![release][JSONRulesEngine-release]][JSONRulesEngine-url] | ![license][JSONRulesEngine-license-shield] |
 | [Mystax][Mystax-url] | [Mustache](https://mustache.github.io/) templating in 4D | [![language][Mystax-top]][Mystax-url] | [![release][Mystax-release]][Mystax-url] | ![license][Mystax-license-shield] |
-| [Lottie][Lottie-url] | Parse and serialize [Lottie](https://lottiefiles.com/) animation files | [![language][Lottie-top]][Lottie-url] | [![release][Lottie-release]][Lottie-url] | ![license][Lottie-license-shield] |
+| [Lottie][Lottie-url] | Parse and serialize [Lottie](https://lottiefiles.com/) animation files | [![language][Lottie-top]][Lottie-url] | [![release][Lottie-release]][Lottie-url] 🧩 | ![license][Lottie-license-shield] |
 
 ### IDE
 
 |Name|Description|Language|Release|License|
 |-|-|-|-|-|
-| [ClassStoreDiagram][ClassStoreDiagram-url] | Generate a diagram from your `cs` class store | [![language][ClassStoreDiagram-top]][ClassStoreDiagram-url] | [![release][ClassStoreDiagram-release]][ClassStoreDiagram-url] | ![license][ClassStoreDiagram-license-shield] |
+| [ClassStoreDiagram][ClassStoreDiagram-url] | Generate a diagram from your `cs` class store | [![language][ClassStoreDiagram-top]][ClassStoreDiagram-url] | [![release][ClassStoreDiagram-release]][ClassStoreDiagram-url] 🧩 | ![license][ClassStoreDiagram-license-shield] |
 | [Blame4D][Blame4D-url] | Graphical `git blame` for your code | [![language][Blame4D-top]][Blame4D-url] | [![release][Blame4D-release]][Blame4D-url] | ![license][Blame4D-license-shield] |
-| [OpenIn][OpenIn-url] | macOS macro to open current project / method in other apps | [![language][OpenIn-top]][OpenIn-url] | [![release][OpenIn-release]][OpenIn-url] | ![license][OpenIn-license-shield] |
-| [VS Theme Converter][VSThemeConverter-url] | Convert a VS Code theme to a 4D theme | [![language][VSThemeConverter-top]][VSThemeConverter-url] | [![release][VSThemeConverter-release]][VSThemeConverter-url] | ![license][VSThemeConverter-license-shield] |
+| [OpenIn][OpenIn-url] | macOS macro to open current project / method in other apps | [![language][OpenIn-top]][OpenIn-url] | [![release][OpenIn-release]][OpenIn-url] 🧩 | ![license][OpenIn-license-shield] |
+| [VS Theme Converter][VSThemeConverter-url] | Convert a VS Code theme to a 4D theme | [![language][VSThemeConverter-top]][VSThemeConverter-url] | [![release][VSThemeConverter-release]][VSThemeConverter-url] 🧩 | ![license][VSThemeConverter-license-shield] |
 | [Deploy Component][DeployComponent-url] | Macro to deploy a 4D component to an app or folder | [![language][DeployComponent-top]][DeployComponent-url] | [![release][DeployComponent-release]][DeployComponent-url] | ![license][DeployComponent-license-shield] |
 | [Indexator][Indexator-url] | Move `.4dm` files according to `folders.json` | [![language][Indexator-top]][Indexator-url] | [![release][Indexator-release]][Indexator-url] | ![license][Indexator-license-shield] |
 | [Macross][Macross-url] | Utilities to edit or create macros | [![language][Macross-top]][Macross-url] | [![release][Macross-release]][Macross-url] | ![license][Macross-license-shield] |
@@ -93,9 +94,9 @@
 |-|-|-|-|-|
 | [Discord.4d][Discord.4d-url] | Send messages to [Discord](https://discord.com/) | [![language][Discord.4d-top]][Discord.4d-url] | [![release][Discord.4d-release]][Discord.4d-url] | ![license][Discord.4d-license-shield] |
 | [Twilio][Twilio-url] | Send SMS using [Twilio](https://www.twilio.com/) | [![language][Twilio-top]][Twilio-url] | [![release][Twilio-release]][Twilio-url] | ![license][Twilio-license-shield] |
-| [JSON-RPC][JSONRPC-url] | [JSON-RPC 2.0](https://www.jsonrpc.org/) implementation | [![language][JSONRPC-top]][JSONRPC-url] | [![release][JSONRPC-release]][JSONRPC-url] | ![license][JSONRPC-license-shield] |
+| [JSON-RPC][JSONRPC-url] | [JSON-RPC 2.0](https://www.jsonrpc.org/) implementation | [![language][JSONRPC-top]][JSONRPC-url] | [![release][JSONRPC-release]][JSONRPC-url] 🧩 | ![license][JSONRPC-license-shield] |
 | [Github.4d][Gihub.4d-url] | Connect to the GitHub API | [![language][Gihub.4d-top]][Gihub.4d-url] | [![release][Gihub.4d-release]][Gihub.4d-url] | ![license][Gihub.4d-license-shield] |
-| [OVH][OVH-url] | [OVH](https://www.ovh.com/) API client (WIP) | [![language][OVH-top]][OVH-url] | [![release][OVH-release]][OVH-url] | ![license][OVH-license-shield] |
+| [OVH][OVH-url] | [OVH](https://www.ovh.com/) API client (WIP) | [![language][OVH-top]][OVH-url] | [![release][OVH-release]][OVH-url] 🧩 | ![license][OVH-license-shield] |
 | [PIM][PIM-url] | vCard / vCalendar builder classes | [![language][PIM-top]][PIM-url] | [![release][PIM-release]][PIM-url] | ![license][PIM-license-shield] |
 | [HTTP Request Builder][HTTPRequestBuilder-url] | Build HTTP requests with a builder pattern | [![language][HTTPRequestBuilder-top]][HTTPRequestBuilder-url] | [![release][HTTPRequestBuilder-release]][HTTPRequestBuilder-url] | ![license][HTTPRequestBuilder-license-shield] |
 
@@ -121,10 +122,10 @@
 
 |Name|Description|Language|Release|License|
 |-|-|-|-|-|
-| [Mark4Down][Mark4Down-url] | Realtime markdown editor on your 4D database | [![language][Mark4Down-top]][Mark4Down-url] | [![release][Mark4Down-release]][Mark4Down-url] | ![license][Mark4Down-license-shield] |
+| [Mark4Down][Mark4Down-url] | Realtime markdown editor on your 4D database | [![language][Mark4Down-top]][Mark4Down-url] | [![release][Mark4Down-release]][Mark4Down-url] 🧩 | ![license][Mark4Down-license-shield] |
 | [JSONToCode][JSONToCode-url] | Turn JSON into 4D code | [![language][JSONToCode-top]][JSONToCode-url] | [![release][JSONToCode-release]][JSONToCode-url] | ![license][JSONToCode-license-shield] |
 | [Mesopotamia][Mesopotamia-url] | Convert JavaScript to 4D code | [![language][Mesopotamia-top]][Mesopotamia-url] | [![release][Mesopotamia-release]][Mesopotamia-url] | ![license][Mesopotamia-license-shield] |
-| [Xterm4D][Xterm4D-url] | Terminal output in a Web Area via [xterm.js](https://xtermjs.org/) | [![language][Xterm4D-top]][Xterm4D-url] | [![release][Xterm4D-release]][Xterm4D-url] | ![license][Xterm4D-license-shield] |
+| [Xterm4D][Xterm4D-url] | Terminal output in a Web Area via [xterm.js](https://xtermjs.org/) | [![language][Xterm4D-top]][Xterm4D-url] | [![release][Xterm4D-release]][Xterm4D-url] 🧩 | ![license][Xterm4D-license-shield] |
 | [Ansi][Ansi-url] | ANSI / terminal toolkit: colored output, parsing, dashboards | [![language][Ansi-top]][Ansi-url] | [![release][Ansi-release]][Ansi-url] | ![license][Ansi-license-shield] |
 
 ### Form macros
@@ -149,20 +150,6 @@
 | [JSON][JSON-url] | JSON helpers | [![language][JSON-top]][JSON-url] | [![release][JSON-release]][JSON-url] | ![license][JSON-license-shield] |
 
 ---
-## 🚧 Work in progress
----
-
-|Name|Description|Language|Release|License|
-|-|-|-|-|-|
-| [Object Class Mapper][ObjectClassMapper-url] | Map JSON / Object to a class structure | [![language][ObjectClassMapper-top]][ObjectClassMapper-url] | [![release][ObjectClassMapper-release]][ObjectClassMapper-url] | ![license][ObjectClassMapper-license-shield] |
-| [Kaluza][Kaluza-url] | Install GitHub components — a package manager for 4D · 💤 *archived* | [![language][Kaluza-top]][Kaluza-url] | [![release][Kaluza-release]][Kaluza-url] | ![license][Kaluza-license-shield] |
-| [Kaluza CLI][kaluza-cli-url] | Command-line interface for Kaluza | [![language][kaluza-cli-top]][kaluza-cli-url] | [![release][kaluza-cli-release]][kaluza-cli-url] | ![license][kaluza-cli-license-shield] |
-
----
-
-## Any question about this unknown dimension?
-
-[![discord][discord-shield]][discord-url]
 
 ## To help the dimension growth
 
@@ -182,9 +169,6 @@ or if you run a business and you're using one of my other projects in a revenue-
 Thank you for your support!
 
 ---
-
-[discord-shield]: https://img.shields.io/badge/chat-discord-7289DA?logo=discord&style=flat
-[discord-url]: https://discord.gg/dVTqZHr
 
 [NullCoaliescing-url]: https://github.com/mesopelagique/NullCoaliescing
 [NullCoaliescing-top]: https://img.shields.io/github/languages/top/mesopelagique/NullCoaliescing.svg
@@ -270,6 +254,10 @@ Thank you for your support!
 [Shoal-top]: https://img.shields.io/github/languages/top/mesopelagique/Shoal.svg
 [Shoal-release]: https://img.shields.io/github/v/release/mesopelagique/Shoal
 [Shoal-license-shield]: https://img.shields.io/github/license/mesopelagique/Shoal
+[ObjectClassMapper-url]: https://github.com/mesopelagique/ObjectClassMapper
+[ObjectClassMapper-top]: https://img.shields.io/github/languages/top/mesopelagique/ObjectClassMapper.svg
+[ObjectClassMapper-release]: https://img.shields.io/github/v/release/mesopelagique/ObjectClassMapper
+[ObjectClassMapper-license-shield]: https://img.shields.io/github/license/mesopelagique/ObjectClassMapper
 [BSON-url]: https://github.com/mesopelagique/BSON
 [BSON-top]: https://img.shields.io/github/languages/top/mesopelagique/BSON.svg
 [BSON-release]: https://img.shields.io/github/v/release/mesopelagique/BSON
@@ -426,15 +414,3 @@ Thank you for your support!
 [JSON-top]: https://img.shields.io/github/languages/top/mesopelagique/JSON.svg
 [JSON-release]: https://img.shields.io/github/v/release/mesopelagique/JSON
 [JSON-license-shield]: https://img.shields.io/github/license/mesopelagique/JSON
-[ObjectClassMapper-url]: https://github.com/mesopelagique/ObjectClassMapper
-[ObjectClassMapper-top]: https://img.shields.io/github/languages/top/mesopelagique/ObjectClassMapper.svg
-[ObjectClassMapper-release]: https://img.shields.io/github/v/release/mesopelagique/ObjectClassMapper
-[ObjectClassMapper-license-shield]: https://img.shields.io/github/license/mesopelagique/ObjectClassMapper
-[Kaluza-url]: https://github.com/mesopelagique/Kaluza
-[Kaluza-top]: https://img.shields.io/github/languages/top/mesopelagique/Kaluza.svg
-[Kaluza-release]: https://img.shields.io/github/v/release/mesopelagique/Kaluza
-[Kaluza-license-shield]: https://img.shields.io/github/license/mesopelagique/Kaluza
-[kaluza-cli-url]: https://github.com/mesopelagique/kaluza-cli
-[kaluza-cli-top]: https://img.shields.io/github/languages/top/mesopelagique/kaluza-cli.svg
-[kaluza-cli-release]: https://img.shields.io/github/v/release/mesopelagique/kaluza-cli
-[kaluza-cli-license-shield]: https://img.shields.io/github/license/mesopelagique/kaluza-cli
