@@ -126,7 +126,7 @@
 | [JSONToCode][JSONToCode-url] | Turn JSON into 4D code | [![language][JSONToCode-top]][JSONToCode-url] | [![release][JSONToCode-release]][JSONToCode-url] | ![license][JSONToCode-license-shield] |
 | [Mesopotamia][Mesopotamia-url] | Convert JavaScript to 4D code | [![language][Mesopotamia-top]][Mesopotamia-url] | [![release][Mesopotamia-release]][Mesopotamia-url] | ![license][Mesopotamia-license-shield] |
 | [Xterm4D][Xterm4D-url] | Terminal output in a Web Area via [xterm.js](https://xtermjs.org/) | [![language][Xterm4D-top]][Xterm4D-url] | [![release][Xterm4D-release]][Xterm4D-url] 🧩 | ![license][Xterm4D-license-shield] |
-| [Ansi][Ansi-url] | ANSI / terminal toolkit: colored output, parsing, dashboards | [![language][Ansi-top]][Ansi-url] | [![release][Ansi-release]][Ansi-url] | ![license][Ansi-license-shield] |
+| [Ansi][Ansi-url] | ANSI / terminal toolkit: colored output, parsing, dashboards | [![language][Ansi-top]][Ansi-url] | [![release][Ansi-release]][Ansi-url] 🧩 | ![license][Ansi-license-shield] |
 
 ### Form macros
 
