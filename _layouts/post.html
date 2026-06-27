@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<article class="post">
+  <h1>{{ page.title }}</h1>
+  <p class="post-meta">
+    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+    {% if page.component %} · 🧩 component
+      {% if page.component_url %}<a href="{{ page.component_url }}">{{ page.component }}</a>{% else %}{{ page.component }}{% endif %}
+      {% if page.version %} <code>{{ page.version }}</code>{% endif %}
+    {% endif %}
+  </p>
+
+  {{ content }}
+
+  <hr/>
+  <p>
+    <a href="{{ '/blog/' | relative_url }}">← Back to the blog</a> ·
+    <a href="{{ '/' | relative_url }}">Home</a>
+  </p>
+</article>
