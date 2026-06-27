@@ -71,7 +71,7 @@
 | [Object Class Mapper][ObjectClassMapper-url] | Map JSON / Object to a class structure | [![language][ObjectClassMapper-top]][ObjectClassMapper-url] | [![release][ObjectClassMapper-release]][ObjectClassMapper-url] | ![license][ObjectClassMapper-license-shield] |
 | [BSON][BSON-url] | [Binary JSON](https://bsonspec.org/) (BSON) for 4D | [![language][BSON-top]][BSON-url] | [![release][BSON-release]][BSON-url] 🧩 | ![license][BSON-license-shield] |
 | [PeD4ntic][PeD4ntic-url] | JSON Schema utilities | [![language][PeD4ntic-top]][PeD4ntic-url] | [![release][PeD4ntic-release]][PeD4ntic-url] 🧩 | ![license][PeD4ntic-license-shield] |
-| [JSON Rules Engine][JSONRulesEngine-url] | A JSON rules engine | [![language][JSONRulesEngine-top]][JSONRulesEngine-url] | [![release][JSONRulesEngine-release]][JSONRulesEngine-url] | ![license][JSONRulesEngine-license-shield] |
+| [JSON Rules Engine][JSONRulesEngine-url] | A JSON rules engine | [![language][JSONRulesEngine-top]][JSONRulesEngine-url] | [![release][JSONRulesEngine-release]][JSONRulesEngine-url] 🧩 | ![license][JSONRulesEngine-license-shield] |
 | [Mystax][Mystax-url] | [Mustache](https://mustache.github.io/) templating in 4D | [![language][Mystax-top]][Mystax-url] | [![release][Mystax-release]][Mystax-url] | ![license][Mystax-license-shield] |
 | [Lottie][Lottie-url] | Parse and serialize [Lottie](https://lottiefiles.com/) animation files | [![language][Lottie-top]][Lottie-url] | [![release][Lottie-release]][Lottie-url] 🧩 | ![license][Lottie-license-shield] |
 
