@@ -1,3 +1,7 @@
+📖 [**Blog**](/blog/) — announcements of new components · ✍️ [**AI / Swift / some 4D notes**](https://phimage.github.io/)
+
+---
+
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/en/e/e8/Dimension404Title.jpg"/>
 </p>
@@ -28,8 +32,6 @@
 ---
 ## 📦 Components
 ---
-
-📖 [**Blog**](/blog/) — announcements of new components · ✍️ [**AI / Swift / 4D notes**](https://phimage.github.io/)
 
 > 🧩 next to a **Release** means that release ships a packaged `.zip` asset, so the component is installable with the [4D dependency manager](https://developer.4d.com/docs/Project/components). A version **without** 🧩 has a release but no installable archive yet; **no releases** means source-only / work in progress.
 
