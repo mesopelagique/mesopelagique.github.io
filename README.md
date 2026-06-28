@@ -58,7 +58,7 @@
 | [PromptKit][PromptKit-url] | Run reusable prompts and chain AI workflows | [![language][PromptKit-top]][PromptKit-url] | [![release][PromptKit-release]][PromptKit-url] 🧩 | ![license][PromptKit-license-shield] |
 | [CopilotSDK][CopilotSDK-url] | 4D port of the GitHub Copilot SDK | [![language][CopilotSDK-top]][CopilotSDK-url] | [![release][CopilotSDK-release]][CopilotSDK-url] | ![license][CopilotSDK-license-shield] |
 | [CopilotSDK → OpenAI][CopilotSDKToOpenAI-url] | OpenAI-compatible web server for CopilotSDK | [![language][CopilotSDKToOpenAI-top]][CopilotSDKToOpenAI-url] | [![release][CopilotSDKToOpenAI-release]][CopilotSDKToOpenAI-url] | ![license][CopilotSDKToOpenAI-license-shield] |
-| [TextChunker4D][TextChunker4D-url] | Split text into stable chunks for embeddings / RAG | [![language][TextChunker4D-top]][TextChunker4D-url] | [![release][TextChunker4D-release]][TextChunker4D-url] | ![license][TextChunker4D-license-shield] |
+| [TextChunker4D][TextChunker4D-url] | Split text into stable chunks for embeddings / RAG | [![language][TextChunker4D-top]][TextChunker4D-url] | [![release][TextChunker4D-release]][TextChunker4D-url] 🧩| ![license][TextChunker4D-license-shield] |
 | [Beyond Pelagic Encoding][BeyondPelagicEncoding-url] | Token estimation & tokenization before embedding / chat APIs | [![language][BeyondPelagicEncoding-top]][BeyondPelagicEncoding-url] | [![release][BeyondPelagicEncoding-release]][BeyondPelagicEncoding-url] | ![license][BeyondPelagicEncoding-license-shield] |
 | [AI Provider Info][AIProviderInfo-url] | Info about AI providers and models | [![language][AIProviderInfo-top]][AIProviderInfo-url] | [![release][AIProviderInfo-release]][AIProviderInfo-url] | ![license][AIProviderInfo-license-shield] |
 | [Codex][Codex-url] | Wraps `codex app-server` in 4D | [![language][Codex-top]][Codex-url] | [![release][Codex-release]][Codex-url] | ![license][Codex-license-shield] |
@@ -147,6 +147,7 @@
 | [File And Folder][FileAndFolder-url] | Adapter / decorator classes around 4D `File` and `Folder` | [![language][FileAndFolder-top]][FileAndFolder-url] | [![release][FileAndFolder-release]][FileAndFolder-url] | ![license][FileAndFolder-license-shield] |
 | [Alias Utils][AliasUtils-url] | Utilities for aliases | [![language][AliasUtils-top]][AliasUtils-url] | [![release][AliasUtils-release]][AliasUtils-url] | ![license][AliasUtils-license-shield] |
 | [XPath Builder][XPathBuilder-url] | Build XPath expressions | [![language][XPathBuilder-top]][XPathBuilder-url] | [![release][XPathBuilder-release]][XPathBuilder-url] | ![license][XPathBuilder-license-shield] |
+
 ---
 
 ## To help the dimension growth
