@@ -72,7 +72,7 @@
 | [BSON][BSON-url] | [Binary JSON](https://bsonspec.org/) (BSON) for 4D | [![language][BSON-top]][BSON-url] | [![release][BSON-release]][BSON-url] 🧩 | ![license][BSON-license-shield] |
 | [PeD4ntic][PeD4ntic-url] | JSON Schema utilities | [![language][PeD4ntic-top]][PeD4ntic-url] | [![release][PeD4ntic-release]][PeD4ntic-url] 🧩 | ![license][PeD4ntic-license-shield] |
 | [JSON Rules Engine][JSONRulesEngine-url] | A JSON rules engine | [![language][JSONRulesEngine-top]][JSONRulesEngine-url] | [![release][JSONRulesEngine-release]][JSONRulesEngine-url] 🧩 | ![license][JSONRulesEngine-license-shield] |
-| [Mystax][Mystax-url] | [Mustache](https://mustache.github.io/) templating in 4D | [![language][Mystax-top]][Mystax-url] | [![release][Mystax-release]][Mystax-url] | ![license][Mystax-license-shield] |
+| [Mystax][Mystax-url] | [Mustache](https://mustache.github.io/) templating in 4D | [![language][Mystax-top]][Mystax-url] | [![release][Mystax-release]][Mystax-url] 🧩 | ![license][Mystax-license-shield] |
 | [Lottie][Lottie-url] | Parse and serialize [Lottie](https://lottiefiles.com/) animation files | [![language][Lottie-top]][Lottie-url] | [![release][Lottie-release]][Lottie-url] 🧩 | ![license][Lottie-license-shield] |
 
 ### IDE
@@ -147,8 +147,6 @@
 | [File And Folder][FileAndFolder-url] | Adapter / decorator classes around 4D `File` and `Folder` | [![language][FileAndFolder-top]][FileAndFolder-url] | [![release][FileAndFolder-release]][FileAndFolder-url] | ![license][FileAndFolder-license-shield] |
 | [Alias Utils][AliasUtils-url] | Utilities for aliases | [![language][AliasUtils-top]][AliasUtils-url] | [![release][AliasUtils-release]][AliasUtils-url] | ![license][AliasUtils-license-shield] |
 | [XPath Builder][XPathBuilder-url] | Build XPath expressions | [![language][XPathBuilder-top]][XPathBuilder-url] | [![release][XPathBuilder-release]][XPathBuilder-url] | ![license][XPathBuilder-license-shield] |
-| [JSON][JSON-url] | JSON helpers | [![language][JSON-top]][JSON-url] | [![release][JSON-release]][JSON-url] | ![license][JSON-license-shield] |
-
 ---
 
 ## To help the dimension growth
@@ -410,7 +408,3 @@ Thank you for your support!
 [XPathBuilder-top]: https://img.shields.io/github/languages/top/mesopelagique/XPathBuilder.svg
 [XPathBuilder-release]: https://img.shields.io/github/v/release/mesopelagique/XPathBuilder
 [XPathBuilder-license-shield]: https://img.shields.io/github/license/mesopelagique/XPathBuilder
-[JSON-url]: https://github.com/mesopelagique/JSON
-[JSON-top]: https://img.shields.io/github/languages/top/mesopelagique/JSON.svg
-[JSON-release]: https://img.shields.io/github/v/release/mesopelagique/JSON
-[JSON-license-shield]: https://img.shields.io/github/license/mesopelagique/JSON
