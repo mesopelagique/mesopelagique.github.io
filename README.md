@@ -54,12 +54,12 @@
 |Name|Description|Language|Release|License|
 |-|-|-|-|-|
 | [AIKit Agent Tools][AIKitAgentTools-url] | Ready-to-use AI tools for [4D AIKit](https://github.com/4d/4D-AIKit) (tool / function calling) | [![language][AIKitAgentTools-top]][AIKitAgentTools-url] | [![release][AIKitAgentTools-release]][AIKitAgentTools-url] 🧩 | ![license][AIKitAgentTools-license-shield] |
-| [MCP][MCP-url] | [Model Context Protocol](https://modelcontextprotocol.io/) client for 4D | [![language][MCP-top]][MCP-url] | [![release][MCP-release]][MCP-url] | ![license][MCP-license-shield] |
+| [MCP][MCP-url] | [Model Context Protocol](https://modelcontextprotocol.io/) client for 4D | [![language][MCP-top]][MCP-url] | [![release][MCP-release]][MCP-url] 🧩 | ![license][MCP-license-shield] |
 | [PromptKit][PromptKit-url] | Run reusable prompts and chain AI workflows | [![language][PromptKit-top]][PromptKit-url] | [![release][PromptKit-release]][PromptKit-url] 🧩 | ![license][PromptKit-license-shield] |
-| [CopilotSDK][CopilotSDK-url] | 4D port of the GitHub Copilot SDK | [![language][CopilotSDK-top]][CopilotSDK-url] | [![release][CopilotSDK-release]][CopilotSDK-url] | ![license][CopilotSDK-license-shield] |
-| [CopilotSDK → OpenAI][CopilotSDKToOpenAI-url] | OpenAI-compatible web server for CopilotSDK | [![language][CopilotSDKToOpenAI-top]][CopilotSDKToOpenAI-url] | [![release][CopilotSDKToOpenAI-release]][CopilotSDKToOpenAI-url] | ![license][CopilotSDKToOpenAI-license-shield] |
+| [CopilotSDK][CopilotSDK-url] | 4D port of the GitHub Copilot SDK | [![language][CopilotSDK-top]][CopilotSDK-url] | [![release][CopilotSDK-release]][CopilotSDK-url] 🧩 | ![license][CopilotSDK-license-shield] |
+| [CopilotSDK → OpenAI][CopilotSDKToOpenAI-url] | OpenAI-compatible web server for CopilotSDK | [![language][CopilotSDKToOpenAI-top]][CopilotSDKToOpenAI-url] | [![release][CopilotSDKToOpenAI-release]][CopilotSDKToOpenAI-url] 🧩 | ![license][CopilotSDKToOpenAI-license-shield] |
 | [TextChunker4D][TextChunker4D-url] | Split text into stable chunks for embeddings / RAG | [![language][TextChunker4D-top]][TextChunker4D-url] | [![release][TextChunker4D-release]][TextChunker4D-url] 🧩| ![license][TextChunker4D-license-shield] |
-| [Beyond Pelagic Encoding][BeyondPelagicEncoding-url] | Token estimation & tokenization before embedding / chat APIs | [![language][BeyondPelagicEncoding-top]][BeyondPelagicEncoding-url] | [![release][BeyondPelagicEncoding-release]][BeyondPelagicEncoding-url] | ![license][BeyondPelagicEncoding-license-shield] |
+| [Beyond Pelagic Encoding][BeyondPelagicEncoding-url] | Token estimation & tokenization before embedding / chat APIs | [![language][BeyondPelagicEncoding-top]][BeyondPelagicEncoding-url] | [![release][BeyondPelagicEncoding-release]][BeyondPelagicEncoding-url] 🧩 | ![license][BeyondPelagicEncoding-license-shield] |
 | [AI Provider Info][AIProviderInfo-url] | Info about AI providers and models | [![language][AIProviderInfo-top]][AIProviderInfo-url] | [![release][AIProviderInfo-release]][AIProviderInfo-url] | ![license][AIProviderInfo-license-shield] |
 | [Codex][Codex-url] | Wraps `codex app-server` in 4D | [![language][Codex-top]][Codex-url] | [![release][Codex-release]][Codex-url] | ![license][Codex-license-shield] |
 
