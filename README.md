@@ -151,6 +151,20 @@
 | [XPath Builder][XPathBuilder-url] | Build XPath expressions | [![language][XPathBuilder-top]][XPathBuilder-url] | [![release][XPathBuilder-release]][XPathBuilder-url] | ![license][XPathBuilder-license-shield] |
 
 ---
+## 🎨 Themes
+---
+
+> 🌈 Color themes for the 4D code editor. Click a preview to open the repository, then grab its `*-color-theme.json`. Most were crafted with [VS Theme Converter][VSThemeConverter-url].
+
+|Name|Description|Preview|License|
+|-|-|-|-|
+| [Mesopelagique][MesopelagiqueTheme-url] | My very personal 4D theme | [<img src="https://raw.githubusercontent.com/mesopelagique/MesopelagiqueTheme/main/Screenshot.png" width="240" />][MesopelagiqueTheme-url] | ![license][MesopelagiqueTheme-license-shield] |
+| [Night Owl][NightOwlTheme-url] | [Night Owl](https://github.com/sdras/night-owl-vscode-theme) for 4D (dark & light) | [<img src="https://raw.githubusercontent.com/mesopelagique/night-owl-4d-theme/main/sample.png" width="240" />][NightOwlTheme-url] | ![license][NightOwlTheme-license-shield] |
+| [Nord][NordTheme-url] | [Nord](https://www.nordtheme.com/) color theme for 4D | [<img src="https://raw.githubusercontent.com/mesopelagique/nord-4d-theme/main/sample.png" width="240" />][NordTheme-url] | ![license][NordTheme-license-shield] |
+| [Cyberpunk 2077][Cyberpunk2077Theme-url] | [Cyberpunk 2077](https://www.cyberpunk.net/)-inspired theme | [<img src="https://raw.githubusercontent.com/mesopelagique/2077-4d-theme/main/sample.png" width="240" />][Cyberpunk2077Theme-url] | ![license][Cyberpunk2077Theme-license-shield] |
+| [Viva][VivaTheme-url] | A vivid theme for 4D | [<img src="https://raw.githubusercontent.com/mesopelagique/viva-theme/main/sample.png" width="240" />][VivaTheme-url] | ![license][VivaTheme-license-shield] |
+
+---
 
 ## To help the dimension growth
 
@@ -411,3 +425,13 @@ Thank you for your support!
 [XPathBuilder-top]: https://img.shields.io/github/languages/top/mesopelagique/XPathBuilder.svg
 [XPathBuilder-release]: https://img.shields.io/github/v/release/mesopelagique/XPathBuilder
 [XPathBuilder-license-shield]: https://img.shields.io/github/license/mesopelagique/XPathBuilder
+[MesopelagiqueTheme-url]: https://github.com/mesopelagique/MesopelagiqueTheme
+[MesopelagiqueTheme-license-shield]: https://img.shields.io/github/license/mesopelagique/MesopelagiqueTheme
+[NightOwlTheme-url]: https://github.com/mesopelagique/night-owl-4d-theme
+[NightOwlTheme-license-shield]: https://img.shields.io/github/license/mesopelagique/night-owl-4d-theme
+[NordTheme-url]: https://github.com/mesopelagique/nord-4d-theme
+[NordTheme-license-shield]: https://img.shields.io/github/license/mesopelagique/nord-4d-theme
+[Cyberpunk2077Theme-url]: https://github.com/mesopelagique/2077-4d-theme
+[Cyberpunk2077Theme-license-shield]: https://img.shields.io/github/license/mesopelagique/2077-4d-theme
+[VivaTheme-url]: https://github.com/mesopelagique/viva-theme
+[VivaTheme-license-shield]: https://img.shields.io/github/license/mesopelagique/viva-theme
