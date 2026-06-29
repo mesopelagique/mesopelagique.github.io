@@ -82,6 +82,7 @@
 |Name|Description|Language|Release|License|
 |-|-|-|-|-|
 | [ClassStoreDiagram][ClassStoreDiagram-url] | Generate a diagram from your `cs` class store | [![language][ClassStoreDiagram-top]][ClassStoreDiagram-url] | [![release][ClassStoreDiagram-release]][ClassStoreDiagram-url] 🧩 | ![license][ClassStoreDiagram-license-shield] |
+| [GenerateHTTPHandlersJSON][GenerateHTTPHandlersJSON-url] | Generate `HTTPHandlers.json` from `// @VERB(pattern)` route comments | [![language][GenerateHTTPHandlersJSON-top]][GenerateHTTPHandlersJSON-url] | [![release][GenerateHTTPHandlersJSON-release]][GenerateHTTPHandlersJSON-url] 🧩 | ![license][GenerateHTTPHandlersJSON-license-shield] |
 | [Blame4D][Blame4D-url] | Graphical `git blame` for your code | [![language][Blame4D-top]][Blame4D-url] | [![release][Blame4D-release]][Blame4D-url] | ![license][Blame4D-license-shield] |
 | [OpenIn][OpenIn-url] | macOS macro to open current project / method in other apps | [![language][OpenIn-top]][OpenIn-url] | [![release][OpenIn-release]][OpenIn-url] 🧩 | ![license][OpenIn-license-shield] |
 | [VS Theme Converter][VSThemeConverter-url] | Convert a VS Code theme to a 4D theme | [![language][VSThemeConverter-top]][VSThemeConverter-url] | [![release][VSThemeConverter-release]][VSThemeConverter-url] 🧩 | ![license][VSThemeConverter-license-shield] |
@@ -297,6 +298,10 @@ Thank you for your support!
 [ClassStoreDiagram-top]: https://img.shields.io/github/languages/top/mesopelagique/ClassStoreDiagram.svg
 [ClassStoreDiagram-release]: https://img.shields.io/github/v/release/mesopelagique/ClassStoreDiagram
 [ClassStoreDiagram-license-shield]: https://img.shields.io/github/license/mesopelagique/ClassStoreDiagram
+[GenerateHTTPHandlersJSON-url]: https://github.com/mesopelagique/GenerateHTTPHandlersJSON
+[GenerateHTTPHandlersJSON-top]: https://img.shields.io/github/languages/top/mesopelagique/GenerateHTTPHandlersJSON.svg
+[GenerateHTTPHandlersJSON-release]: https://img.shields.io/github/v/release/mesopelagique/GenerateHTTPHandlersJSON
+[GenerateHTTPHandlersJSON-license-shield]: https://img.shields.io/github/license/mesopelagique/GenerateHTTPHandlersJSON
 [Blame4D-url]: https://github.com/mesopelagique/Blame4D
 [Blame4D-top]: https://img.shields.io/github/languages/top/mesopelagique/Blame4D.svg
 [Blame4D-release]: https://img.shields.io/github/v/release/mesopelagique/Blame4D
