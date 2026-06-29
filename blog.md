@@ -19,6 +19,10 @@ Looking for AI / Swift / 4D notes too? They live on my other blog:
 <small>{{ post.date | date: "%B %-d, %Y" }}{% if post.component %} · 🧩 {{ post.component }}{% if post.version %} <code>{{ post.version }}</code>{% endif %}{% endif %}</small>
 
 {{ post.excerpt | strip_html | strip_newlines | truncate: 200 }}
+{% unless forloop.last %}
+
+---
+{% endunless %}
 {% else %}
 _No posts yet. Stay tuned — something is rising from the twilight zone._
 {% endfor %}
