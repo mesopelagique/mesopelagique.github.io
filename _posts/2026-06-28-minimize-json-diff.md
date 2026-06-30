@@ -52,6 +52,25 @@ the file**:
 - Otherwise a **pre-commit hook** is a solid fallback: it normalizes key order on the way into
   a commit, so the noise never lands in history in the first place.
 
+  
+```bash
+FILE="Resources/en.lproj/syntaxEN.json"
+
+# Nothing to do unless the file is staged.
+git diff --cached --quiet -- "$FILE" && exit 0
+
+REPO_ROOT=$(git rev-parse --show-toplevel)
+python3 "$PATH_TO_SCRIPT/minimize_json_diff.py" "$FILE" >/dev/null 2>&1
+
+if git diff --quiet HEAD -- "$FILE"; then
+    git checkout HEAD -- "$FILE"   # pure key-order noise -> not committed
+    echo "pre-commit: $FILE unchanged after minimize; dropped from commit." >&2
+else
+    git add -- "$FILE"             # real change -> commit the minimized version
+fi
+exit 0
+```
+
 Either way, the goal is the same — keep diffs honest, so a "no change" really reads as no
 change.
 
