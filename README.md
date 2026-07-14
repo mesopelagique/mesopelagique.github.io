@@ -131,6 +131,12 @@
 | [Xterm4D][Xterm4D-url] | Terminal output in a Web Area via [xterm.js](https://xtermjs.org/) | [![language][Xterm4D-top]][Xterm4D-url] | [![release][Xterm4D-release]][Xterm4D-url] 🧩 | ![license][Xterm4D-license-shield] |
 | [Ansi][Ansi-url] | ANSI / terminal toolkit: colored output, parsing, dashboards | [![language][Ansi-top]][Ansi-url] | [![release][Ansi-release]][Ansi-url] 🧩 | ![license][Ansi-license-shield] |
 
+### UI
+
+|Name|Description|Language|Release|License|
+|-|-|-|-|-|
+| [FormElementTransition][FormElementTransition-url] | Shared element transitions for forms — hero / magic-move animations (`cs.hero`) | [![language][FormElementTransition-top]][FormElementTransition-url] | [![release][FormElementTransition-release]][FormElementTransition-url] | ![license][FormElementTransition-license-shield] |
+
 ### Form macros
 
 |Name|Description|Language|Release|License|
@@ -414,6 +420,10 @@ Thank you for your support!
 [StackView-top]: https://img.shields.io/github/languages/top/mesopelagique/StackView.svg
 [StackView-release]: https://img.shields.io/github/v/release/mesopelagique/StackView
 [StackView-license-shield]: https://img.shields.io/github/license/mesopelagique/StackView
+[FormElementTransition-url]: https://github.com/mesopelagique/FormElementTransition
+[FormElementTransition-top]: https://img.shields.io/github/languages/top/mesopelagique/FormElementTransition.svg
+[FormElementTransition-release]: https://img.shields.io/github/v/release/mesopelagique/FormElementTransition
+[FormElementTransition-license-shield]: https://img.shields.io/github/license/mesopelagique/FormElementTransition
 [CopyPasteStyleFormMacro-url]: https://github.com/mesopelagique/CopyPasteStyleFormMacro
 [CopyPasteStyleFormMacro-top]: https://img.shields.io/github/languages/top/mesopelagique/CopyPasteStyleFormMacro.svg
 [CopyPasteStyleFormMacro-release]: https://img.shields.io/github/v/release/mesopelagique/CopyPasteStyleFormMacro
