@@ -94,8 +94,16 @@ Small caveats for a genuinely fun little effect.
 The classes each carry their own reference doc (`ElementTransition`, `ElementAnimation`,
 `ElementState`), shown right in the 4D code editor. Two demos ship in the box: `DEMO` (single
 form) and `DEMO_TwoForms` (two forms).
+
+## Aparté
+
+Two games fell out of it, both vibe coded: **[ArcanoidGame][arcanoid]**, whose ball is just a chain
+of linear tweens, and **[2048][game2048]**, where the tiles hop from cell to cell.
+
 ---
 
 Grab it on [GitHub][repo], browse the full 4D component catalog on the [home page](/).
 
 [repo]: https://github.com/mesopelagique/FormElementTransition
+[arcanoid]: https://github.com/mesopelagique/ArcanoidGame
+[game2048]: https://github.com/mesopelagique/2048

@@ -158,6 +158,15 @@
 | [XPath Builder][XPathBuilder-url] | Build XPath expressions | [![language][XPathBuilder-top]][XPathBuilder-url] | [![release][XPathBuilder-release]][XPathBuilder-url] | ![license][XPathBuilder-license-shield] |
 
 ---
+## 🎮 Games
+---
+
+|Name|Description|Language|Release|License|
+|-|-|-|-|-|
+| [ArcanoidGame][ArcanoidGame-url] | Brick breaker whose ball is a chain of linear tweens — so it cannot tunnel | [![language][ArcanoidGame-top]][ArcanoidGame-url] | [![release][ArcanoidGame-release]][ArcanoidGame-url] | ![license][ArcanoidGame-license-shield] |
+| [2048][Game2048-url] | Tiles hopping between known cells: the engine's native tongue | [![language][Game2048-top]][Game2048-url] | [![release][Game2048-release]][Game2048-url] | ![license][Game2048-license-shield] |
+
+---
 ## 🎨 Themes
 ---
 
@@ -424,6 +433,14 @@ Thank you for your support!
 [FormElementTransition-top]: https://img.shields.io/github/languages/top/mesopelagique/FormElementTransition.svg
 [FormElementTransition-release]: https://img.shields.io/github/v/release/mesopelagique/FormElementTransition
 [FormElementTransition-license-shield]: https://img.shields.io/github/license/mesopelagique/FormElementTransition
+[ArcanoidGame-url]: https://github.com/mesopelagique/ArcanoidGame
+[ArcanoidGame-top]: https://img.shields.io/github/languages/top/mesopelagique/ArcanoidGame.svg
+[ArcanoidGame-release]: https://img.shields.io/github/v/release/mesopelagique/ArcanoidGame
+[ArcanoidGame-license-shield]: https://img.shields.io/github/license/mesopelagique/ArcanoidGame
+[Game2048-url]: https://github.com/mesopelagique/2048
+[Game2048-top]: https://img.shields.io/github/languages/top/mesopelagique/2048.svg
+[Game2048-release]: https://img.shields.io/github/v/release/mesopelagique/2048
+[Game2048-license-shield]: https://img.shields.io/github/license/mesopelagique/2048
 [CopyPasteStyleFormMacro-url]: https://github.com/mesopelagique/CopyPasteStyleFormMacro
 [CopyPasteStyleFormMacro-top]: https://img.shields.io/github/languages/top/mesopelagique/CopyPasteStyleFormMacro.svg
 [CopyPasteStyleFormMacro-release]: https://img.shields.io/github/v/release/mesopelagique/CopyPasteStyleFormMacro
