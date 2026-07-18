@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "FormElementTransition — one element, two states, and the flight in between"
+title: "Hero — one element, two states, and the flight in between"
 date: 2026-07-14
-component: FormElementTransition
-component_url: https://github.com/mesopelagique/FormElementTransition
+component: Hero
+component_url: https://github.com/mesopelagique/Hero
 version: 0.0.1
 ---
 
@@ -13,7 +13,7 @@ cutting between them, it *glides*. It moves, resizes, reshapes, recolors. You kn
 animations** (Flutter/iOS), **Magic Move** (Keynote), **matchedGeometryEffect** (SwiftUI), or a
 **Container Transform** (Material Design). The generic name is a **shared element transition**.
 
-**[FormElementTransition][repo]** brings it to 4D forms — a small component, namespace `cs.hero`,
+**[Hero][repo]** brings it to 4D forms — a small component, namespace `cs.hero`,
 driven by the plain form timer at ~60 fps.
 
 ## The idea
@@ -51,7 +51,7 @@ Form.transition.share("cardSmall"; "cardLarge"; {duration: 450; easing: "easeOut
 Form.transition.share("cardLarge"; "cardSmall"; {duration: 350; easing: "easeInOutCubic"; colorMode: "hsv"})
 ```
 
-There are eleven easing curves (`easeOutBack`, `easeOutBounce`, `easeOutElastic`…), a fluent
+There are twelve easing curves (`easeOutBack`, `easeOutBounce`, `easeOutElastic`…), a fluent
 builder for free-form tweens, and a `morph()` variant where the source object itself travels and
 reshapes into the destination (a Material *container transform*).
 
@@ -97,13 +97,26 @@ form) and `DEMO_TwoForms` (two forms).
 
 ## Aparté
 
-Two games fell out of it, both vibe coded: **[ArcanoidGame][arcanoid]**, whose ball is just a chain
-of linear tweens, and **[2048][game2048]**, where the tiles hop from cell to cell.
+Nine things fell out of it, all vibe coded: **[ArcanoidGame][arcanoid]**, whose ball is just a
+chain of linear tweens; **[2048][game2048]** and **[Taquin][taquin]**, where the tiles hop from cell
+to cell; **[Puissance4D][p4]**, where a disc's fall is one tween and `easeOutBounce` lands it;
+**[Memory4D][memory]**, whose card flip is the matched-geometry move spelled out by hand;
+**[EscapingButton][escaping]**, an OK button that refuses to be clicked;
+**[ActivityIndicator][spinners]**, eight spinners lifted from IBAnimatable;
+**[MatrixRain][matrix]**, where nothing moves at all and the whole storm is colour being tweened;
+and **[PlayGallery][gallery]**, which loads the lot as components and launches them.
 
 ---
 
 Grab it on [GitHub][repo], browse the full 4D component catalog on the [home page](/).
 
-[repo]: https://github.com/mesopelagique/FormElementTransition
+[repo]: https://github.com/mesopelagique/Hero
 [arcanoid]: https://github.com/mesopelagique/ArcanoidGame
 [game2048]: https://github.com/mesopelagique/2048
+[taquin]: https://github.com/mesopelagique/Taquin
+[p4]: https://github.com/mesopelagique/Puissance4D
+[memory]: https://github.com/mesopelagique/Memory4D
+[escaping]: https://github.com/mesopelagique/EscapingButton
+[spinners]: https://github.com/mesopelagique/ActivityIndicator
+[matrix]: https://github.com/mesopelagique/MatrixRain
+[gallery]: https://github.com/mesopelagique/PlayGallery

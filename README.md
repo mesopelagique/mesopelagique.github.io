@@ -35,7 +35,7 @@
 
 > 🧩 next to a **Release** means that release ships a packaged `.zip` asset, so the component is installable with the [4D dependency manager](https://developer.4d.com/docs/Project/components). A version **without** 🧩 has a release but no installable archive yet; **no releases** means source-only / work in progress.
 
-### Language
+### 🔤 Language
 
 |Name|Description|Language|Release|License|
 |-|-|-|-|-|
@@ -51,7 +51,7 @@
 | [Argument Parser][ArgumentParser-url] | Parse command-line style arguments | [![language][ArgumentParser-top]][ArgumentParser-url] | [![release][ArgumentParser-release]][ArgumentParser-url] | ![license][ArgumentParser-license-shield] |
 | [Get/Set Wrappers][GetSetWrappers-url] | Getters and setters helpers | [![language][GetSetWrappers-top]][GetSetWrappers-url] | [![release][GetSetWrappers-release]][GetSetWrappers-url] | ![license][GetSetWrappers-license-shield] |
 
-### AI / LLM
+### ✨ AI / LLM
 
 |Name|Description|Language|Release|License|
 |-|-|-|-|-|
@@ -65,7 +65,7 @@
 | [AI Provider Info][AIProviderInfo-url] | Info about AI providers and models | [![language][AIProviderInfo-top]][AIProviderInfo-url] | [![release][AIProviderInfo-release]][AIProviderInfo-url] | ![license][AIProviderInfo-license-shield] |
 | [Codex][Codex-url] | Wraps `codex app-server` in 4D | [![language][Codex-top]][Codex-url] | [![release][Codex-release]][Codex-url] | ![license][Codex-license-shield] |
 
-### Data
+### 🗄️ Data
 
 |Name|Description|Language|Release|License|
 |-|-|-|-|-|
@@ -77,7 +77,7 @@
 | [Mystax][Mystax-url] | [Mustache](https://mustache.github.io/) templating in 4D | [![language][Mystax-top]][Mystax-url] | [![release][Mystax-release]][Mystax-url] 🧩 | ![license][Mystax-license-shield] |
 | [Lottie][Lottie-url] | Parse and serialize [Lottie](https://lottiefiles.com/) animation files | [![language][Lottie-top]][Lottie-url] | [![release][Lottie-release]][Lottie-url] 🧩 | ![license][Lottie-license-shield] |
 
-### IDE
+### 🛠️ IDE
 
 |Name|Description|Language|Release|License|
 |-|-|-|-|-|
@@ -91,7 +91,7 @@
 | [Macross][Macross-url] | Utilities to edit or create macros | [![language][Macross-top]][Macross-url] | [![release][Macross-release]][Macross-url] | ![license][Macross-license-shield] |
 | [Emoji Macro][EmojiMacro-url] | Emoji macro file | [![language][EmojiMacro-top]][EmojiMacro-url] | [![release][EmojiMacro-release]][EmojiMacro-url] | ![license][EmojiMacro-license-shield] |
 
-### API
+### 🔌 API
 
 |Name|Description|Language|Release|License|
 |-|-|-|-|-|
@@ -103,25 +103,25 @@
 | [PIM][PIM-url] | vCard / vCalendar builder classes | [![language][PIM-top]][PIM-url] | [![release][PIM-release]][PIM-url] | ![license][PIM-license-shield] |
 | [HTTP Request Builder][HTTPRequestBuilder-url] | Build HTTP requests with a builder pattern | [![language][HTTPRequestBuilder-top]][HTTPRequestBuilder-url] | [![release][HTTPRequestBuilder-release]][HTTPRequestBuilder-url] | ![license][HTTPRequestBuilder-license-shield] |
 
-### Security
+### 🔐 Security
 
 |Name|Description|Language|Release|License|
 |-|-|-|-|-|
 | [OTP][OTP-url] | [One-time password](https://en.wikipedia.org/wiki/One-time_password): OTP, HOTP, TOTP | [![language][OTP-top]][OTP-url] | [![release][OTP-release]][OTP-url] | ![license][OTP-license-shield] |
 
-### Test / QA
+### 🧪 Test / QA
 
 |Name|Description|Language|Release|License|
 |-|-|-|-|-|
 | [expect][expect-url] | Matchers for BDD-style tests | [![language][expect-top]][expect-url] | [![release][expect-release]][expect-url] | ![license][expect-license-shield] |
 
-### Web
+### 🌐 Web
 
 |Name|Description|Language|Release|License|
 |-|-|-|-|-|
 | [Tricho][Tricho-url] | Web router and utility methods | [![language][Tricho-top]][Tricho-url] | [![release][Tricho-release]][Tricho-url] | ![license][Tricho-license-shield] |
 
-### Web component
+### 🕸️ Web component
 
 |Name|Description|Language|Release|License|
 |-|-|-|-|-|
@@ -131,13 +131,16 @@
 | [Xterm4D][Xterm4D-url] | Terminal output in a Web Area via [xterm.js](https://xtermjs.org/) | [![language][Xterm4D-top]][Xterm4D-url] | [![release][Xterm4D-release]][Xterm4D-url] 🧩 | ![license][Xterm4D-license-shield] |
 | [Ansi][Ansi-url] | ANSI / terminal toolkit: colored output, parsing, dashboards | [![language][Ansi-top]][Ansi-url] | [![release][Ansi-release]][Ansi-url] 🧩 | ![license][Ansi-license-shield] |
 
-### UI
+### 🖌️ UI
 
 |Name|Description|Language|Release|License|
 |-|-|-|-|-|
-| [FormElementTransition][FormElementTransition-url] | Shared element transitions for forms — hero / magic-move animations (`cs.hero`) | [![language][FormElementTransition-top]][FormElementTransition-url] | [![release][FormElementTransition-release]][FormElementTransition-url] | ![license][FormElementTransition-license-shield] |
+| [Hero][Hero-url] | Shared element transitions for forms — hero / magic-move animations (`cs.hero`) | [![language][Hero-top]][Hero-url] | [![release][Hero-release]][Hero-url] | ![license][Hero-license-shield] |
+| [ActivityIndicator][ActivityIndicator-url] | Eight spinners built on `cs.hero`, ported from [IBAnimatable](https://github.com/IBAnimatable/IBAnimatable) — each one a loop of tweens | [![language][ActivityIndicator-top]][ActivityIndicator-url] | [![release][ActivityIndicator-release]][ActivityIndicator-url] | ![license][ActivityIndicator-license-shield] |
+| [EscapingButton][EscapingButton-url] | The OK button that will not be clicked. Each escape is one easing curve in a costume | [![language][EscapingButton-top]][EscapingButton-url] | [![release][EscapingButton-release]][EscapingButton-url] | ![license][EscapingButton-license-shield] |
+| [MatrixRain][MatrixRain-url] | The falling green glyphs; no object moves — the whole storm is colour being tweened | [![language][MatrixRain-top]][MatrixRain-url] | [![release][MatrixRain-release]][MatrixRain-url] | ![license][MatrixRain-license-shield] |
 
-### Form macros
+### 🪄 Form macros
 
 |Name|Description|Language|Release|License|
 |-|-|-|-|-|
@@ -149,7 +152,7 @@
 | [StackView][StackView-url] | Stack layout inspired by iOS `UIStackView` | [![language][StackView-top]][StackView-url] | [![release][StackView-release]][StackView-url] | ![license][StackView-license-shield] |
 | [Copy/Paste Style][CopyPasteStyleFormMacro-url] | Copy & paste style between form objects | [![language][CopyPasteStyleFormMacro-top]][CopyPasteStyleFormMacro-url] | [![release][CopyPasteStyleFormMacro-release]][CopyPasteStyleFormMacro-url] | ![license][CopyPasteStyleFormMacro-license-shield] |
 
-### Utils
+### 🧰 Utils
 
 |Name|Description|Language|Release|License|
 |-|-|-|-|-|
@@ -165,6 +168,10 @@
 |-|-|-|-|-|
 | [ArcanoidGame][ArcanoidGame-url] | Brick breaker whose ball is a chain of linear tweens — so it cannot tunnel | [![language][ArcanoidGame-top]][ArcanoidGame-url] | [![release][ArcanoidGame-release]][ArcanoidGame-url] | ![license][ArcanoidGame-license-shield] |
 | [2048][Game2048-url] | Tiles hopping between known cells: the engine's native tongue | [![language][Game2048-top]][Game2048-url] | [![release][Game2048-release]][Game2048-url] | ![license][Game2048-license-shield] |
+| [Taquin][Taquin-url] | 15-puzzle on a cut-up picture; the shuffle walks the hole, so it is always solvable | [![language][Taquin-top]][Taquin-url] | [![release][Taquin-release]][Taquin-url] | ![license][Taquin-license-shield] |
+| [Puissance4D][Puissance4D-url] | Connect Four; the disc's fall is one tween, and `easeOutBounce` lands it | [![language][Puissance4D-top]][Puissance4D-url] | [![release][Puissance4D-release]][Puissance4D-url] | ![license][Puissance4D-license-shield] |
+| [Memory4D][Memory4D-url] | Matching pairs of 4D version icons; the card flip is a matched-geometry move by hand | [![language][Memory4D-top]][Memory4D-url] | [![release][Memory4D-release]][Memory4D-url] | ![license][Memory4D-license-shield] |
+| [PlayGallery][PlayGallery-url] | Loads every game and effect as a component and launches them from one place | [![language][PlayGallery-top]][PlayGallery-url] | [![release][PlayGallery-release]][PlayGallery-url] | ![license][PlayGallery-license-shield] |
 
 ---
 ## 🎨 Themes
@@ -182,7 +189,7 @@
 
 ---
 
-## To help the dimension growth
+## ☕ To help the dimension growth
 
 If you like my content, please consider buying me a coffee.
 
@@ -429,10 +436,10 @@ Thank you for your support!
 [StackView-top]: https://img.shields.io/github/languages/top/mesopelagique/StackView.svg
 [StackView-release]: https://img.shields.io/github/v/release/mesopelagique/StackView
 [StackView-license-shield]: https://img.shields.io/github/license/mesopelagique/StackView
-[FormElementTransition-url]: https://github.com/mesopelagique/FormElementTransition
-[FormElementTransition-top]: https://img.shields.io/github/languages/top/mesopelagique/FormElementTransition.svg
-[FormElementTransition-release]: https://img.shields.io/github/v/release/mesopelagique/FormElementTransition
-[FormElementTransition-license-shield]: https://img.shields.io/github/license/mesopelagique/FormElementTransition
+[Hero-url]: https://github.com/mesopelagique/Hero
+[Hero-top]: https://img.shields.io/github/languages/top/mesopelagique/Hero.svg
+[Hero-release]: https://img.shields.io/github/v/release/mesopelagique/Hero
+[Hero-license-shield]: https://img.shields.io/github/license/mesopelagique/Hero
 [ArcanoidGame-url]: https://github.com/mesopelagique/ArcanoidGame
 [ArcanoidGame-top]: https://img.shields.io/github/languages/top/mesopelagique/ArcanoidGame.svg
 [ArcanoidGame-release]: https://img.shields.io/github/v/release/mesopelagique/ArcanoidGame
@@ -441,6 +448,34 @@ Thank you for your support!
 [Game2048-top]: https://img.shields.io/github/languages/top/mesopelagique/2048.svg
 [Game2048-release]: https://img.shields.io/github/v/release/mesopelagique/2048
 [Game2048-license-shield]: https://img.shields.io/github/license/mesopelagique/2048
+[Taquin-url]: https://github.com/mesopelagique/Taquin
+[Taquin-top]: https://img.shields.io/github/languages/top/mesopelagique/Taquin.svg
+[Taquin-release]: https://img.shields.io/github/v/release/mesopelagique/Taquin
+[Taquin-license-shield]: https://img.shields.io/github/license/mesopelagique/Taquin
+[Puissance4D-url]: https://github.com/mesopelagique/Puissance4D
+[Puissance4D-top]: https://img.shields.io/github/languages/top/mesopelagique/Puissance4D.svg
+[Puissance4D-release]: https://img.shields.io/github/v/release/mesopelagique/Puissance4D
+[Puissance4D-license-shield]: https://img.shields.io/github/license/mesopelagique/Puissance4D
+[Memory4D-url]: https://github.com/mesopelagique/Memory4D
+[Memory4D-top]: https://img.shields.io/github/languages/top/mesopelagique/Memory4D.svg
+[Memory4D-release]: https://img.shields.io/github/v/release/mesopelagique/Memory4D
+[Memory4D-license-shield]: https://img.shields.io/github/license/mesopelagique/Memory4D
+[MatrixRain-url]: https://github.com/mesopelagique/MatrixRain
+[MatrixRain-top]: https://img.shields.io/github/languages/top/mesopelagique/MatrixRain.svg
+[MatrixRain-release]: https://img.shields.io/github/v/release/mesopelagique/MatrixRain
+[MatrixRain-license-shield]: https://img.shields.io/github/license/mesopelagique/MatrixRain
+[PlayGallery-url]: https://github.com/mesopelagique/PlayGallery
+[PlayGallery-top]: https://img.shields.io/github/languages/top/mesopelagique/PlayGallery.svg
+[PlayGallery-release]: https://img.shields.io/github/v/release/mesopelagique/PlayGallery
+[PlayGallery-license-shield]: https://img.shields.io/github/license/mesopelagique/PlayGallery
+[EscapingButton-url]: https://github.com/mesopelagique/EscapingButton
+[EscapingButton-top]: https://img.shields.io/github/languages/top/mesopelagique/EscapingButton.svg
+[EscapingButton-release]: https://img.shields.io/github/v/release/mesopelagique/EscapingButton
+[EscapingButton-license-shield]: https://img.shields.io/github/license/mesopelagique/EscapingButton
+[ActivityIndicator-url]: https://github.com/mesopelagique/ActivityIndicator
+[ActivityIndicator-top]: https://img.shields.io/github/languages/top/mesopelagique/ActivityIndicator.svg
+[ActivityIndicator-release]: https://img.shields.io/github/v/release/mesopelagique/ActivityIndicator
+[ActivityIndicator-license-shield]: https://img.shields.io/github/license/mesopelagique/ActivityIndicator
 [CopyPasteStyleFormMacro-url]: https://github.com/mesopelagique/CopyPasteStyleFormMacro
 [CopyPasteStyleFormMacro-top]: https://img.shields.io/github/languages/top/mesopelagique/CopyPasteStyleFormMacro.svg
 [CopyPasteStyleFormMacro-release]: https://img.shields.io/github/v/release/mesopelagique/CopyPasteStyleFormMacro
