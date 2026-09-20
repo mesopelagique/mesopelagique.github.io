@@ -69,8 +69,9 @@ plug the result straight into your own logic instead of parsing free text.
 A lot of things could be built on top of this (some of what's floating around online is "fake" —
 it's a new buzzword), but paired with a standard LLM, it can do some genuinely useful work.
 
-A curated list of resources: **[awesome-jev](https://github.com/kraayenjon/awesome-jev)** — use
-cases, projects, SDKs, and more.
+Two curated lists of resources: **[awesome-jev](https://github.com/kraayenjon/awesome-jev)** and
+**[awesome-jev](https://github.com/hellogumbo/awesome-jev)** — use cases, projects, SDKs, and
+more.
 
 ---
 
